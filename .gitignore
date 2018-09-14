@@ -1,0 +1,28 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# Rspec failure tracking:
+.rspec_status
+
+# Used by dotenv library to load environment variables:
+.env
+
+# Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+# Environment normalization:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+# Custom:
+*.gem
